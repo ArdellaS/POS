@@ -1,0 +1,10 @@
+C:\Users\DShelton\source\repos\test\test\bin\Debug\netcoreapp3.1\POS.exe
+C:\Users\DShelton\source\repos\test\test\bin\Debug\netcoreapp3.1\POS.deps.json
+C:\Users\DShelton\source\repos\test\test\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+C:\Users\DShelton\source\repos\test\test\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+C:\Users\DShelton\source\repos\test\test\bin\Debug\netcoreapp3.1\POS.dll
+C:\Users\DShelton\source\repos\test\test\bin\Debug\netcoreapp3.1\POS.pdb
+C:\Users\DShelton\source\repos\test\test\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+C:\Users\DShelton\source\repos\test\test\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+C:\Users\DShelton\source\repos\test\test\obj\Debug\netcoreapp3.1\POS.dll
+C:\Users\DShelton\source\repos\test\test\obj\Debug\netcoreapp3.1\POS.pdb
