@@ -1,0 +1,11 @@
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\bin\Debug\netcoreapp3.1\POS.exe
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\bin\Debug\netcoreapp3.1\POS.dll
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\bin\Debug\netcoreapp3.1\POS.pdb
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\obj\Debug\netcoreapp3.1\POS.dll
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\obj\Debug\netcoreapp3.1\POS.pdb
+C:\Users\DShelton\OneDrive - Knex\Documents\GCDevBuild\POSTest\POS\obj\Debug\netcoreapp3.1\POS.csprojAssemblyReference.cache
